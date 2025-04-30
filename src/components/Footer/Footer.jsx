@@ -37,13 +37,7 @@ function Footer() {
               <p className="text-[16px] font-medium text-[#646464]">
                 Privacy Policy | © {new Date().getFullYear()} Gymate <br />{" "}
                 Design by{" "}
-                <a
-                  target="_blank"
-                  rel="noreferrer"
-                  href="https://www.radiustheme.com/"
-                >
-                  RadiusTheme
-                </a>
+                B.Sunil && K.Sumanth
               </p>
             </div>
 
